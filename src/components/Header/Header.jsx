@@ -1,7 +1,7 @@
 import React from 'react';
 import c from './Header.module.css';
 
-const Header = () => {
+const Header = (props) => {
     return (
         <header className={c.header}>
             <a className={c.logo} href="#">

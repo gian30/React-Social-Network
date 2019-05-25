@@ -1,0 +1,6 @@
+.post img {
+    width: 50px !important;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
