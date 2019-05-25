@@ -1,0 +1,21 @@
+.nav {
+    grid-area: nav;
+    background-color: #845EC2;
+}
+
+.nav_link {
+    padding: 10px 0;
+    display: block;
+    text-align: center;
+    width: 100%;
+    background-color: #ffffff60;
+    color: black;
+}
+
+.nav_link:hover {
+    background-color: #ffffff80;
+}
+
+.nav_link.active {
+    color: green;
+}

@@ -1,0 +1,22 @@
+.header {
+    grid-area: header;
+    background-color: #FF6F91;
+    padding: 5px 60px;
+}
+
+.header img {
+    width: 40px;
+    margin-right: 20px;
+}
+
+.logo {
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.logo_text {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 25px;
+}
