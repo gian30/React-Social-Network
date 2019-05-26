@@ -1,6 +1,27 @@
+.post {
+  background-color: #fff;
+  width: 60%;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.post_content {
+  display: flex;
+}
+
 .post img {
-    width: 50px !important;
-    height: 50px;
-    border-radius: 50%;
-    object-fit: cover;
+  max-width: 50px !important;
+  max-height: 50px !important;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.post_text {
+  margin-left: 40px;
+}
+
+.post_title {
+  font-weight: bold;
 }

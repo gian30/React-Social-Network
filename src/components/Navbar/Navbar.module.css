@@ -1,6 +1,6 @@
 .nav {
     grid-area: nav;
-    background-color: #845EC2;
+    background-color: #888da8;
 }
 
 .nav_link {
@@ -17,5 +17,5 @@
 }
 
 .nav_link.active {
-    color: green;
+    color: #35469b;
 }

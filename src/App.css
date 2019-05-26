@@ -7,5 +7,6 @@
 
 .app-wrapper-content {
     grid-area: content;
-    background-color: #FF9671;
+    color: #888da8;
+    background-color: #edf2f6;
 }
